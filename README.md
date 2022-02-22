@@ -2,11 +2,11 @@
 
 This repository provides the code for the paper Sampling from Arbitrary Functions via PSD Models (https://hal.inria.fr/hal-03386544v2). 
 
-The necessary dependencies are simply a recet verison of torch. 
+The necessary dependencies are simply a recent verison of torch. 
 
 ### Main file
 
-The file containing the main tools is the file [gaussian_psd_model.py](gaussian_psd_model.py).
+The file containing the main tools is the file [gaussian_psd_model.py](gaussian_psd_model.py). In particular, the class `GaussianPSDModel1` Contains 
 
 ### Computing models 
 
